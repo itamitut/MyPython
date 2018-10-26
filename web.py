@@ -1,5 +1,6 @@
 import requests
 
-url = 'http://www.google.com'
+par = {'key1': 'value1', 'key2': 'value2'}
+url = 'http://www.example.com'
 responce = requests.get(url)
-print(responce.headers)
+print(responce.url)
