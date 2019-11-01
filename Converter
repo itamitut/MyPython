@@ -1,0 +1,81 @@
+from lxml import etree
+from xml.sax.saxutils import escape
+
+data = []
+values = []
+names = []
+
+full_name = []
+
+prev_data_set = False
+
+root = None
+
+with open('test1.txt', encoding='utf-8') as f:
+    for str_no,line in enumerate(f):
+        arr=line.rstrip().split('\t')
+
+        var_fullname = arr[0].rstrip().split('.')
+        for idx, v in enumerate(var_fullname):
+            if v != "element":
+                var_fullname[idx] = v.replace("_","").replace(" ","").capitalize()
+            if v == "minOP":
+                var_fullname[idx] = "MinOp"
+### Temporary workaround
+            if v == "id" and var_fullname[idx-1] == "Deposit":
+                var_fullname[idx] = "New"
+###
+
+        create_element = False
+        var_xpath= "//" + "/".join(var_fullname).replace("[","/element[")
+        parent_xpath= "//" + "/".join(var_fullname[:-1]).replace("[","/element[")        
+        child_name=var_fullname[-1:][0]
+        if "[" in child_name:
+            child_shortname=child_name.split('[')[0]
+            child_index=int(child_name.split('[')[1][:-1])
+        else:
+            child_shortname=child_name
+            child_index=None
+
+        #print(parent_xpath + " " + child_name + " " + child_shortname + " " + str(create_element) + " " + str(child_index))
+        if len(arr) > 1:
+            if "date" in child_shortname.lower() and len(arr[1]) == 8:
+                data_value=arr[1][0:4] + "-" + arr[1][4:6] + "-" + arr[1][6:8]
+            else:                                                                                         
+                data_value=arr[1]
+        else:
+            data_value=None
+
+        if str_no == 0:
+            root = etree.Element(var_fullname[0])
+            curr_node = root
+            for el in var_fullname[1:]:
+                curr_node = etree.SubElement(curr_node, el)
+        else:
+           el = root.xpath(parent_xpath)
+           if len(el) == 1:
+               if child_index == None:
+                   curr_node = etree.SubElement(el[0], child_shortname)
+               if child_index != None and child_index == 1: 
+                   curr_node = etree.SubElement(el[0], child_shortname)
+                   curr_node = etree.SubElement(curr_node, "element")
+               if child_index != None and child_index > 1:
+                   el = root.xpath(parent_xpath + "/" + child_shortname)
+                   curr_node = etree.SubElement(el[0], "element")
+               if data_value != None:
+                   curr_node.text = escape(data_value)
+
+    print('''<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<soap:Body>
+<DAXMLDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<OCONTROL><ALIAS>SM1_Call</ALIAS>
+<SIGNATURE>HCSBK</SIGNATURE>
+<APPLICATION_ID>111111</APPLICATION_ID>
+<DALOGLEVEL>0</DALOGLEVEL>
+</OCONTROL>''')
+    etree.dump(root)
+    print('''</DAXMLDocument>
+</soap:Body>
+</soap:Envelope>
+''')
