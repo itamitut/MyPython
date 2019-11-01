@@ -1,0 +1,857 @@
+Input.Application	
+Input.Application.id	L00085-1200-2019
+Input.Application.date	20190204
+Input.Application.branch	12
+Input.Application.program_type	1
+Input.Application.direction	
+Input.Application.subdirection	
+Input.Application.loan_type	002
+Input.Application.loan_kind	2
+Input.Application.loan_purpose	1
+Input.Application.property_type	02
+Input.Application.military_flag	0
+Input.Application.affiliated_flag	0
+Input.Application.housing_certificate	0
+Input.Application.Current_loan	
+Input.Application.Current_loan.sum	12200000.00
+Input.Application.Current_loan.term	72
+Input.Application.Current_loan.interest_rate	8
+Input.Application.Current_loan.payment_type	4
+Input.Application.Current_loan.payment_amount	147619
+Input.Application.Current_loan.payment_date	16
+Input.Application.Future_loan	
+Input.Application.Future_loan.sum	6100000
+Input.Application.Future_loan.term	72
+Input.Application.Future_loan.term_to_move	72
+Input.Application.Future_loan.interest_rate	5
+Input.Application.Future_loan.payment_type	1
+Input.Application.Future_loan.payment_amount	147619.00
+Input.Applicant[1]	
+Input.Applicant[1].role	заемщик
+Input.Applicant[1].active	1
+Input.Applicant[1].document_type	332
+Input.Applicant[1].document_issue_date	20240303
+Input.Applicant[1].citizenship	1
+Input.Applicant[1].resident_flag	1
+Input.Applicant[1].birth_date	19890412
+Input.Applicant[1].birth_place	1
+Input.Applicant[1].gender	2
+Input.Applicant[1].education	4
+Input.Applicant[1].marital_status	2
+Input.Applicant[1].registration_address_regional_center_flag	1
+Input.Applicant[1].registration_address_big_city_flag	0
+Input.Applicant[1].residence_address_regional_center_flag	1
+Input.Applicant[1].residence_address_big_city_flag	0
+Input.Applicant[1].family_members_number	3
+Input.Applicant[1].main_applicant_relationship	
+Input.Applicant[1].Spouse	
+Input.Applicant[1].Spouse.birth_date	19880619
+Input.Applicant[1].Spouse.birth_place	1
+Input.Applicant[1].Spouse.work_flag	1
+Input.Applicant[1].Spouse.coapplicant_flag	1
+Input.Applicant[1].Spouse.loan_sum	12200000
+Input.Applicant[1].Spouse.app_sum	16961
+Input.Applicant[1].IntCH	
+Input.Applicant[1].IntCH.current_overdue_sum	0
+Input.Applicant[1].IntCH.loan_sum	0
+Input.Applicant[1].IntCH.app_sum	147619
+Input.Applicant[1].ExtSystems	
+Input.Applicant[1].ExtSystems.UV_counter	1
+Input.Applicant[1].ExtSystems.GCVP	
+Input.Applicant[1].ExtSystems.GCVP.last_call_date	20190204
+Input.Applicant[1].ExtSystems.GCVP.called	1
+Input.Applicant[1].ExtSystems.GCVP.Income[1]	
+Input.Applicant[1].ExtSystems.GCVP.Income[1].bin	51140004354
+Input.Applicant[1].ExtSystems.GCVP.Income[1].date	20190204
+Input.Applicant[1].ExtSystems.GCVP.Income[1].name	АО ДК НБК по страх Халык-Life
+Input.Applicant[1].ExtSystems.GCVP.Income[1].amount	75331.00
+Input.Applicant[1].ExtSystems.GCVP.Income[2]	
+Input.Applicant[1].ExtSystems.GCVP.Income[2].bin	160440007161
+Input.Applicant[1].ExtSystems.GCVP.Income[2].date	20190204
+Input.Applicant[1].ExtSystems.GCVP.Income[2].name	НАО Государственная корпорация "Правительство для граждан"
+Input.Applicant[1].ExtSystems.GCVP.Income[2].amount	18291.00
+Input.Applicant[1].ExtSystems.GCVP.Income[3]	
+Input.Applicant[1].ExtSystems.GCVP.Income[3].bin	131140006239
+Input.Applicant[1].ExtSystems.GCVP.Income[3].date	20190204
+Input.Applicant[1].ExtSystems.GCVP.Income[3].name	TLC TRANSPORT LOGISTICS COMPANY ТОО
+Input.Applicant[1].ExtSystems.GCVP.Income[3].amount	170505.00
+Input.Applicant[1].ExtSystems.PKB	
+Input.Applicant[1].ExtSystems.PKB.last_call_date	20190204
+Input.Applicant[1].ExtSystems.PKB.called	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[1]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].financial_institution	126
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].existing_terminated_flag	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].type_of_founding	9
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].status	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].classification	8
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].role	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].start_date	20150919
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].end_date_plan	20190919
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].end_date_fact	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].total_amount	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].interest_rate	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].month	2
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].month	3
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].month	4
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].month	5
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].month	6
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].month	7
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].month	8
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].month	9
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].month	10
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].month	11
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11].year	2017
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11].month	12
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[11].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12].month	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[12].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13].month	2
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[13].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14].month	3
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[14].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15].month	4
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[15].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16].month	5
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[16].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17].month	6
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[17].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18].month	7
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[18].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19].month	8
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[19].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20].month	9
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[20].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21].month	10
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[21].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22].month	11
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[22].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23].year	2018
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23].month	12
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[23].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24].year	2019
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24].month	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[1].Payments_Calendar[24].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].financial_institution	140
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].existing_terminated_flag	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].type_of_founding	2
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].status	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].classification	8
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].role	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].start_date	20100415
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].end_date_plan	20120415
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].end_date_fact	20120306
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].total_amount	222000
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].interest_rate	16
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].month	4
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].month	5
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].month	6
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].month	7
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].month	8
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].month	9
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].month	10
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].overdue	14453.67
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].days	10
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].month	11
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].year	2010
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].month	12
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].month	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].month	2
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].month	3
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].month	4
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].month	5
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15].month	6
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[15].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16].month	7
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[16].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17].month	8
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[17].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18].month	9
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[18].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19].month	10
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[19].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20].month	11
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[20].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21].year	2011
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21].month	12
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[21].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22].year	2012
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22].month	1
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[22].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23].year	2012
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23].month	2
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[23].days	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24]	
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24].year	2012
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24].month	3
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24].overdue	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24].penalty	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24].fine	0
+Input.Applicant[1].ExtSystems.PKB.Contracts[2].Payments_Calendar[24].days	0
+Input.Applicant[1].Monthly_Income[1]	
+Input.Applicant[1].Monthly_Income[1].source	работа в организации
+Input.Applicant[1].Monthly_Income[1].experience	от 1 года до 5 лет
+Input.Applicant[1].Monthly_Income[1].sum	75750
+Input.Applicant[1].Monthly_Expenses[1]	
+Input.Applicant[1].Monthly_Expenses[1].source	платежи БВУ
+Input.Applicant[1].Monthly_Expenses[1].sum	164580
+Input.Applicant[1].Monthly_Expenses[2]	
+Input.Applicant[1].Monthly_Expenses[2].source	расходы семьи
+Input.Applicant[1].Monthly_Expenses[2].sum	113625
+Input.Applicant[2]	
+Input.Applicant[2].role	созаемщик
+Input.Applicant[2].active	0
+Input.Applicant[2].document_type	332
+Input.Applicant[2].document_issue_date	20240730
+Input.Applicant[2].citizenship	1
+Input.Applicant[2].resident_flag	1
+Input.Applicant[2].birth_date	19880619
+Input.Applicant[2].birth_place	1
+Input.Applicant[2].gender	3
+Input.Applicant[2].education	4
+Input.Applicant[2].marital_status	2
+Input.Applicant[2].registration_address_regional_center_flag	1
+Input.Applicant[2].registration_address_big_city_flag	0
+Input.Applicant[2].residence_address_regional_center_flag	1
+Input.Applicant[2].residence_address_big_city_flag	0
+Input.Applicant[2].family_members_number	3
+Input.Applicant[2].main_applicant_relationship	2
+Input.Applicant[2].Spouse	
+Input.Applicant[2].Spouse.birth_date	19880616
+Input.Applicant[2].Spouse.birth_place	1
+Input.Applicant[2].Spouse.work_flag	1
+Input.Applicant[2].Spouse.coapplicant_flag	0
+Input.Applicant[2].Spouse.loan_sum	0
+Input.Applicant[2].Spouse.app_sum	0
+Input.Applicant[2].IntCH	
+Input.Applicant[2].IntCH.current_overdue_sum	0
+Input.Applicant[2].IntCH.loan_sum	0
+Input.Applicant[2].IntCH.app_sum	0
+Input.Applicant[2].ExtSystems	
+Input.Applicant[2].ExtSystems.UV_counter	1
+Input.Applicant[2].ExtSystems.GCVP	
+Input.Applicant[2].ExtSystems.GCVP.last_call_date	20190204
+Input.Applicant[2].ExtSystems.GCVP.called	1
+Input.Applicant[2].ExtSystems.GCVP.Income[1]	
+Input.Applicant[2].ExtSystems.GCVP.Income[1].bin	171141018077
+Input.Applicant[2].ExtSystems.GCVP.Income[1].date	20190204
+Input.Applicant[2].ExtSystems.GCVP.Income[1].name	ЗАПАДНАЯ РДТ ФИ
+Input.Applicant[2].ExtSystems.GCVP.Income[1].amount	525236.89
+Input.Applicant[2].ExtSystems.PKB	
+Input.Applicant[2].ExtSystems.PKB.last_call_date	20190204
+Input.Applicant[2].ExtSystems.PKB.called	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[1]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].financial_institution	126
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].existing_terminated_flag	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].type_of_founding	9
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].status	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].classification	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].role	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].start_date	20180418
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].end_date_plan	20200418
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].end_date_fact	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].total_amount	50880
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].interest_rate	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].month	4
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[1].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].month	5
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[2].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].month	6
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[3].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].month	7
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[4].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].month	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[5].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].month	9
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[6].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].month	10
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[7].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].month	11
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[8].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].month	12
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[9].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].year	2019
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].month	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[1].Payments_Calendar[10].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].financial_institution	157
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].existing_terminated_flag	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].type_of_founding	2
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].status	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].classification	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].role	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].start_date	20140111
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].end_date_plan	20160111
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].end_date_fact	20150216
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].total_amount	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].interest_rate	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].month	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[1].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].month	2
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[2].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].month	3
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[3].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].month	4
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[4].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].month	5
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[5].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].month	6
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[6].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].month	7
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[7].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].month	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[8].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].month	9
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[9].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].month	10
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[10].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].month	11
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[11].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].year	2014
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].month	12
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[12].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].year	2015
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].month	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[13].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].year	2015
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].month	2
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[2].Payments_Calendar[14].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].financial_institution	133
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].existing_terminated_flag	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].type_of_founding	2
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].status	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].classification	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].role	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].start_date	20171216
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].end_date_plan	20181116
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].end_date_fact	20180917
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].total_amount	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].interest_rate	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1].year	2017
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1].month	12
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[1].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2].month	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[2].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3].month	2
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[3].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4].month	3
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[4].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5].month	4
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[5].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6].month	5
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[6].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7].month	6
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[7].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8].month	7
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[8].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9].month	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[9].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10].month	9
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[3].Payments_Calendar[10].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].financial_institution	140
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].existing_terminated_flag	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].type_of_founding	9
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].status	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].classification	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].role	1
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].start_date	20180612
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].end_date_plan	20181212
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].end_date_fact	20181113
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].total_amount	332300
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].interest_rate	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1].month	6
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[1].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2].month	7
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[2].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3].month	8
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[3].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4].month	9
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[4].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5].month	10
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[5].days	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6]	
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6].year	2018
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6].month	10
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6].overdue	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6].penalty	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6].fine	0
+Input.Applicant[2].ExtSystems.PKB.Contracts[4].Payments_Calendar[6].days	0
+Input.Deposit	
+Input.Deposit.id	518-14/3263
+Input.Deposit.tariff	JSSB.DEPO.001.6
+Input.Deposit.open_date	20140731
+Input.Deposit.close_date	20220130
+Input.Deposit.interest_term	54
+Input.Deposit.interest_rate	5
+Input.Deposit.sum	12,200,000
+Input.Deposit.interest_amount_total	6111844.54
+Input.Deposit.reward_current_year	195296.39
+Input.Deposit.reward_state	404344.10
+Input.Deposit.OP	12.17
+Input.Deposit.minOP	16
+Input.Guarantee	
+Input.Guarantee.Collateral[1]	
+Input.Guarantee.Collateral[1].id	1
+Input.Guarantee.Collateral[1].type	квартира
+Input.Guarantee.Collateral[1].status	имеющаяся
+Input.Guarantee.Collateral[1].address_regional_center_flag	1
+Input.Guarantee.Collateral[1].address_big_city_flag	0
+Input.Guarantee.Collateral[1].credit_zone_code	12-00-01
+Input.Guarantee.Collateral[1].year_of_construction	1981
+Input.Guarantee.Collateral[1].wall_material	C28
+Input.Guarantee.Collateral[1].price_SZR	11000000
+Input.Guarantee.Collateral[1].price_market	11534000
+Input.Guarantee.Collateral[1].Application_Loan[1]	
+Input.Guarantee.Collateral[1].Application_Loan[1].type	займ
+Input.Guarantee.Collateral[1].Application_Loan[1].id	L00085-1200-2019
+Input.Guarantee.Collateral[1].Application_Loan[1].sum	0
+Input.Guarantee.Collateral[1].Application_Loan[1].interest_amount_total	0
+Input.Guarantee.Collateral[1].Application_Loan[1].consider_calc_KZ	0
+Input.Guarantee.Deposit[1]	
+Input.Guarantee.Deposit[1].id	518-14/3263
+Input.Guarantee.Deposit[1].sum	12200000
+Input.Guarantee.Deposit[1].interest_term	89
+Input.Guarantee.Deposit[1].interest_amount_total	6111845
+Input.Guarantee.Deposit[1].reward_state	404344
